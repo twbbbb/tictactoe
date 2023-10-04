@@ -70,6 +70,9 @@ body {
   text-align: center;
   width: 34px;
 }
+.square-highlight{
+  background-color: yellow;
+}
 
 .board-row:after {
   clear: both;
